@@ -37,19 +37,20 @@ The AWS provider is set to use the us-east-1 region.
 provider "aws" {
   region = "us-east-1"
 }
+```
 
 # S3 Bucket
 ## Creates an S3 bucket named anigaikwadbucket16. Tags are added for better resource identification.
 
-
-`resource "aws_s3_bucket" "example_bucket" {
+```bash
+resource "aws_s3_bucket" "example_bucket" {
   bucket = "anigaikwadbucket16" 
   tags = {
     Name        = "S3 Bucket"
     Environment = "Development"
   }
-}`
-
+}
+```
 # S3 Bucket Objects
 
 Creates placeholder directories dir1 and dir2.<br>
