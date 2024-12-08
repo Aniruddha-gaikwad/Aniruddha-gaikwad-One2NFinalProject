@@ -15,11 +15,11 @@ The HTTP service is implemented in Python. The service exposes the following end
 
 ## If the bucket contains:
 
-Copy code 
+Copy code <br>
 |_ dir1 <br>
 |_ dir2 <br>
- |_ file1 <br>
- |_ file2 <br>
+> |_ file1 <br>
+> |_ file2 <br>
 
 GET /list-bucket-content → {"content": ["dir1", "dir2", "file1", "file2"]} <br>
 GET /list-bucket-content/dir1 → {"content": []} <br>
