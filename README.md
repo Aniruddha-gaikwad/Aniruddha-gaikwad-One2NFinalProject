@@ -33,9 +33,10 @@ For a non-existing path: <br>
 ## Provider Configuration
 The AWS provider is set to use the us-east-1 region.
 
-`provider "aws" {
+```bash
+provider "aws" {
   region = "us-east-1"
-}`
+}
 
 # S3 Bucket
 ## Creates an S3 bucket named anigaikwadbucket16. Tags are added for better resource identification.
