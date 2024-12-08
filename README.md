@@ -3,8 +3,7 @@
 The HTTP service is implemented in Python. The service exposes the following endpoint:
 
 Endpoint:
-''' bash
-GET /list-bucket-content/<path>
+' GET /list-bucket-content/<path> '
 
 Behavior:
 
