@@ -75,5 +75,12 @@ Configures an ingress rule to allow traffic on `port 5000` (used by the HTTP ser
 # Outputs
 Outputs the public IP of the EC2 instance for easy access.
 
-<img src=""C:\Users\Sunayana\Pictures\Screenshots\Screenshot 2024-12-08 000136.png"" width="200" />
+![Screenshot 2024-12-08 000136](https://github.com/user-attachments/assets/848e780f-d555-48da-8e19-5c68c4e2e9c6)
+
+![Screenshot 2024-12-08 000158](https://github.com/user-attachments/assets/fd3b88a0-f807-4a9c-a0d7-2d4b499fe05f)
+
+![Screenshot 2024-12-08 000221](https://github.com/user-attachments/assets/35be8568-e685-4d2c-abb5-cd96e69379c8)
+
+
+
 
