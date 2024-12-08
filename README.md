@@ -1,8 +1,8 @@
 # Implementation Details <br>
-## Part 1: HTTP Service
+# Part 1: HTTP Service
 The HTTP service is implemented in Python. The service exposes the following endpoint:
 
-# Endpoint:<br>
+## Endpoint:<br>
 `GET /list-bucket-content/<path>`
 
 # Behavior:<br>
