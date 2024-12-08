@@ -1,9 +1,9 @@
-#Implementation Details <br>
-##Part 1: HTTP Service
+# Implementation Details <br>
+## Part 1: HTTP Service
 The HTTP service is implemented in Python. The service exposes the following endpoint:
 
 Endpoint:
-'''bash
+''' bash
 GET /list-bucket-content/<path>
 
 Behavior:
